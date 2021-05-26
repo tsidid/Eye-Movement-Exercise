@@ -1,5 +1,12 @@
 # Eye-Movement-Exercise
 ## Just Look Around
-This Exercise creates a second eye and synchronises the movement of the eyes to the movement of the mouse. 
-The Eye movement Exercise is distributed under the MiT license a copy of which is uploaded into this repository.
+This Exercise creates a second eye and synchronises the movement of the eyes to the movement of the mouse.
+How To Run: 
+Load the Index.html file unto a browser to view the eye exercise.
+
+Road Map to Future Improvements:
+I hope to improve this in the future by introducing a human head and that moves in the same direction as the eyes.  
+
+License Information:
+The Eye movement Exrcise is distributed under the MiT license a copy of which is uploaded into this repository.
 
